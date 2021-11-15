@@ -34,13 +34,13 @@
       
      "anticipatefantrouble":false,
 
-      "admob": false,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-7144089957930196/7068302852",
-        "admb_inters": "ca-app-pub-7144089957930196/4363615442",
-        "admb_native": "ca-app-pub-7144089957930196/8189812837",
-        "admb_native2": "ca-app-pub-7144089957930196/8189812837",
-        "admb_openad": "ca-app-pub-7144089957930196/9502894506"
+        "admb_banner": "ca-app-pub-7144089957930196/9870059159",
+        "admb_inters": "ca-app-pub-7144089957930196/8556977482",
+        "admb_native": "ca-app-pub-7144089957930196/8651829333",
+        "admb_native2": "ca-app-pub-7144089957930196/8651829333",
+        "admb_openad": "ca-app-pub-7144089957930196/9964911006"
       },
       
       "onBackOpenAds":true,
@@ -48,7 +48,7 @@
       
       
       
-      "unity": true,
+      "unity": false,
       "adsunity": {
         "unity_id": "3667089",
         "unity_inters": "video"
