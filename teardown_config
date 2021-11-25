@@ -3,8 +3,8 @@
       
       "show": true,
       "CheckR": true,
-      "com": false,
-      "published": false,
+      "com": true,
+      "published": true,
       
       "version": 1,
       "newAppLink": "com.Trailmix.LoveAndPiesMerges",
@@ -34,13 +34,13 @@
       
      "anticipatefantrouble":false,
 
-      "admob": false,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-7144089957930196/4641783203",
-        "admb_inters": "ca-app-pub-7144089957930196/3328701536",
-        "admb_native": "ca-app-pub-7144089957930196/4972955690",
-        "admb_native2": "ca-app-pub-7144089957930196/4972955690",
-        "admb_openad": "ca-app-pub-7144089957930196/2015619864"
+        "admb_banner": "ca-app-pub-7144089957930196/8065801129",
+        "admb_inters": "ca-app-pub-7144089957930196/2095945689",
+        "admb_native": "ca-app-pub-7144089957930196/4126556111",
+        "admb_native2": "ca-app-pub-7144089957930196/4126556111",
+        "admb_openad": "ca-app-pub-7144089957930196/5439637782"
       },
       
       "onBackOpenAds":true,
@@ -50,7 +50,7 @@
       
       "unity": false,
       "adsunity": {
-        "unity_id": "3667089s",
+        "unity_id": "3667089",
         "unity_inters": "video"
       }
     }
